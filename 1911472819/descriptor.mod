@@ -1,7 +1,7 @@
-version="1.0"
+version="1.1"
 tags={
 	"Sound"
 }
 name="Sasara VOICE"
-supported_version="v3.*.*"
+supported_version="4.3.*"
 remote_file_id="1911472819"
